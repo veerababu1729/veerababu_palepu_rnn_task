@@ -24,13 +24,7 @@
 | `README.md`                   | Documentation file (this file)                                 |
 
 
----
 
-You can **copy-paste** this directly into your README under the section titled **Project Structure**.
-
-Let me know if you’d like to include a diagram version of it in your PDF or presentation as well!
-      
----
 
 ## ⚙️ Setup
 
