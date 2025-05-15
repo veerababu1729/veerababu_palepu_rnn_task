@@ -5,28 +5,31 @@
 **Branch:** `veerababu_palepu_rnn_task`  
 **Date:** 2025‑05‑14  
 
----
 
 ## 📁 Project Structure
 
-```
+| Path                          | Description                                                    |
+| ----------------------------- | -------------------------------------------------------------- |
+| `datasets/`                   | Folder containing datasets for classification and generation   |
+| ├── `classification_data.txt` | Educational text snippets labeled as Math, Science, or History |
+| └── `generation_data.txt`     | Long-form educational content used for next-word prediction    |
+| `src/`                        | Source code for model training                                 |
+| ├── `classification_model.py` | Builds and trains SimpleRNN for text classification            |
+| └── `generation_model.py`     | Builds and trains SimpleRNN for next-word generation           |
+| `utils/`                      | Utility functions for preprocessing                            |
+| └── `preprocessing.py`        | Tokenizes, sequences, pads text, and splits datasets           |
+| `test_classification.py`      | Script to test classification model on custom snippets         |
+| `test_generation.py`          | Script to test generation model with a 10-word seed            |
+| `.gitignore`                  | Excludes virtual environments, cache files, and binaries       |
+| `README.md`                   | Documentation file (this file)                                 |
 
-veerababu\_palepu\_rnn\_task/
-├── datasets/
-│   ├── classification\_data.txt    # Labeled snippets (Math/Science/History)
-│   └── generation\_data.txt        # Multi‑paragraph corpus for next‑word generation
-├── src/
-│   ├── classification\_model.py    # Build, train & evaluate SimpleRNN classifier
-│   └── generation\_model.py        # Build, train & generate with SimpleRNN
-├── utils/
-│   └── preprocessing.py           # Load/tokenize/sequence/pad/split helpers
-├── test\_classification.py         # Classifier inference on custom snippets
-├── test\_generation.py             # Generator inference on a 10‑word seed → 20 words
-├── .gitignore                     # Excludes virtual‑env, caches, large files
-└── README.md                      # This file
 
-````
+---
 
+You can **copy-paste** this directly into your README under the section titled **Project Structure**.
+
+Let me know if you’d like to include a diagram version of it in your PDF or presentation as well!
+      
 ---
 
 ## ⚙️ Setup
