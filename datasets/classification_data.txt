@@ -8,13 +8,39 @@ The derivative of sin(x) is cos(x).	Math
 A right circular cone’s volume is (1/3)πr²h.	Math
 Euler’s identity e^(iπ) + 1 = 0 beautifully links five constants.	Math
 When graphing y = x² + 2x + 1, you get a parabola shifted left by one.	Math
+The quadratic formula solves ax² + bx + c = 0 for x.	Math
+A prime number has exactly two distinct positive divisors: 1 and itself.	Math
+The area of a circle is π times the radius squared.	Math
+A function is continuous if its graph can be drawn without lifting the pencil.	Math
+The sum of the angles in a triangle is always 180 degrees.	Math
+A matrix is a rectangular array of numbers arranged in rows and columns.	Math
+The Fibonacci sequence starts with 0 and 1, and each subsequent number is the sum of the previous two.	Math
+A logarithm is the inverse operation to exponentiation.	Math
+The mean is the average value of a set of numbers.	Math
 
 Water boils at 100 °C at sea level due to atmospheric pressure.	Science
 DNA is composed of two strands forming a double helix.	Science
 The speed of light in a vacuum is approximately 3 × 10⁸ m/s.	Science
 Enzymes lower activation energy to speed up biochemical reactions.	Science
+Mitochondria are the powerhouses of the cell.	Science
+Newton’s third law states that every action has an equal and opposite reaction.	Science
+The human heart has four chambers: two atria and two ventricles.	Science
+Chlorophyll gives plants their green color and helps absorb light.	Science
+The periodic table organizes elements by atomic number.	Science
+Vaccines help the immune system recognize and fight pathogens.	Science
+Gravity is the force that attracts objects toward the center of the Earth.	Science
+The ozone layer protects Earth from harmful ultraviolet radiation.	Science
 
 The Magna Carta was signed in 1215 and limited the English king’s power.	History
 The Berlin Wall fell in 1989, marking the end of Cold War divisions.	History
 Queen Victoria reigned over the British Empire during the 19th century.	History
 The Rosetta Stone enabled scholars to decipher Egyptian hieroglyphs.	History
+The French Revolution began in 1789 and led to major social change.	History
+The Declaration of Independence was signed in 1776.	History
+The Great Wall of China was built to protect against invasions.	History
+The Renaissance was a period of renewed interest in art and learning in Europe.	History
+The American Civil War was fought from 1861 to 1865.	History
+Julius Caesar was assassinated in 44 BCE.	History
+The Wright brothers achieved the first powered flight in 1903.	History
+The Black Death was a devastating pandemic in 14th-century Europe.	History
+The United Nations was founded in 1945 to promote international cooperation.	History
